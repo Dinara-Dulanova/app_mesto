@@ -1,0 +1,13 @@
+.profile-info__avatarEdit-icon {
+  border-radius: 50%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 47px;
+  left: 47px;
+  transition: opacity 0.3ms;
+  width: 26px;
+  height: 26px;
+  opacity: 0;
+  overflow: visible;
+}

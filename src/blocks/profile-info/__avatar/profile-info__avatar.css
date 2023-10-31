@@ -1,0 +1,15 @@
+.profile-info__avatar {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.3ms;
+}
+
+.profile-info__avatar:hover {
+  opacity: 0;
+}

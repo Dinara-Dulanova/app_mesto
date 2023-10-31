@@ -1,0 +1,10 @@
+.profile-info__description-user {
+  max-width: 294px;
+}
+
+@media screen and (max-width: 500px) {
+  .profile-info__description-user {
+    text-align: center;
+    padding-top: 26px;
+  }
+}
